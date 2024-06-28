@@ -1,5 +1,5 @@
 {
-  "name": "indomiegoreng",
+  "name": "@septianasf/indomiegoreng",
   "version": "1.1.4",
   "scripts": {
     "dev": "next dev",
@@ -27,7 +27,7 @@
   "main": "postcss.config.mjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/septianasf/indomiegoreng"
+    "url": "git+https://github.com/septianasf/indomiegoreng.git"
   },
   "author": "",
   "license": "ISC",
